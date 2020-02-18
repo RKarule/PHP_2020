@@ -1,0 +1,38 @@
+body {
+    background-color: beige;
+    font-size: small;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.element {
+    width: 100px;
+    height: 100px;
+}
+
+.fizz {
+    background-color: rgb(219, 152, 202);
+    border: solid;
+    border-width: 1px;
+}
+
+.buzz {
+    background-color: rgb(201, 90, 136);
+    border: solid;
+    border-width: 1px;
+}
+
+.fizzbuzz {
+    background-color: rgb(165, 26, 123);
+    border: solid;
+    border-width: 1px;
+}
+
+.number {
+    background-color: rgb(214, 200, 211);
+    border: solid;
+    border-width: 1px;
+}
